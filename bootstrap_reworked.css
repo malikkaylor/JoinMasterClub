@@ -43,9 +43,10 @@
     max-width: 1560px;
   }
 }
-@media (min-width: 1400px)
-.container {
+@media (min-width: 1400px) {
+  .container {
     max-width: 1400px !important;
+  }
 }
 .row {
   --bs-gutter-x: 1.5rem;
